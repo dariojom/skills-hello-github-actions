@@ -1,0 +1,53 @@
+graph TD;
+    A[Bajo rendimiento académico en matemática, lectura y escritura]
+    
+    %% Raíces (Causas del problema)
+    A -->|Factores pedagógicos| B1(Falta de recursos educativos adecuados)
+    A -->|Factores pedagógicos| B2(Escasez de personal docente especializado)
+    A -->|Factores pedagógicos| B3(Métodos de enseñanza poco efectivos)
+    A -->|Factores pedagógicos| B4(Falta de estrategias didácticas innovadoras)
+    
+    A -->|Factores socioeconómicos| C1(Situación económica desfavorable de la comunidad)
+    A -->|Factores socioeconómicos| C2(Falta de acceso a materiales de estudio en los hogares)
+    A -->|Factores socioeconómicos| C3(Desnutrición o problemas de salud que afectan el aprendizaje)
+    
+    A -->|Factores psicológicos y motivacionales| D1(Desmotivación de los estudiantes)
+    A -->|Factores psicológicos y motivacionales| D2(Baja autoestima académica)
+    A -->|Factores psicológicos y motivacionales| D3(Falta de hábitos de estudio)
+    
+    A -->|Factores familiares y sociales| E1(Falta de apoyo familiar en el aprendizaje)
+    A -->|Factores familiares y sociales| E2(Entornos poco estimulantes para el desarrollo cognitivo)
+    
+    %% Ramificaciones (Consecuencias del problema)
+    A -->|En lectura| F1(Dificultad para comprender textos a profundidad)
+    A -->|En lectura| F2(Problemas en la identificación de ideas principales)
+    A -->|En lectura| F3(Falta de capacidad para realizar inferencias y análisis crítico)
+    
+    A -->|En escritura| G1(Textos desorganizados y sin coherencia)
+    A -->|En escritura| G2(Poca riqueza léxica y errores ortográficos)
+    A -->|En escritura| G3(Dificultad para estructurar ideas en un escrito)
+    
+    A -->|En matemática| H1(Dificultad en el pensamiento lógico-matemático)
+    A -->|En matemática| H2(Problemas en la resolución de ejercicios y problemas aplicados)
+    A -->|En matemática| H3(Falta de comprensión de conceptos básicos)
+    
+    A -->|Impacto general| I1(Frustración y desinterés por el aprendizaje)
+    A -->|Impacto general| I2(Mayor índice de reprobación y abandono escolar)
+    A -->|Impacto general| I3(Limitadas oportunidades académicas y laborales en el futuro)
+    
+    %% Hojas (Soluciones posibles)
+    I1 --> J1(Implementación de metodologías activas y constructivistas)
+    I1 --> J2(Capacitación docente en estrategias didácticas innovadoras)
+    I1 --> J3(Uso de materiales y tecnología educativa)
+    
+    I2 --> K1(Programas de alimentación escolar para mejorar la salud de los estudiantes)
+    I2 --> K2(Dotación de libros y materiales de estudio gratuitos)
+    I2 --> K3(Gestión de becas y ayudas para estudiantes de bajos recursos)
+    
+    I3 --> L1(Programas de tutorías y refuerzos académicos)
+    I3 --> L2(Estrategias para fomentar el interés y la autoestima estudiantil)
+    I3 --> L3(Espacios de aprendizaje colaborativo)
+    
+    I3 --> M1(Talleres para padres sobre acompañamiento educativo)
+    I3 --> M2(Promoción de ambientes de aprendizaje en el hogar)
+    I3 --> M3(Actividades que integren a la comunidad en el proceso educativo)
